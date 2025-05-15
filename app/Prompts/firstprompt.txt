@@ -1,0 +1,29 @@
+Bir yemek odaklı bilgilendirme sitesi için kapsamlı bir SQL veritabanı şeması ve Next.js tabanlı bir dosya/klasör yapısı tasarlayın. Website aşağıdaki özelliklere ve içeriklere sahip olmalıdır:
+
+### Özellikler:
+- Kullanıcı oturum yönetimi ve kimlik doğrulama (user authentication and session management)
+- Tüm içeriklerin, kullanıcı verilerinin ve etkileşimlerin saklanacağı bir veritabanı
+- Kullanıcıların etkileşimde bulunabilmesi için beğeni ve yorum sistemi
+- İçerik ekleme ve yönetimi için bir admin paneli
+- Üç dil desteği (çeşitli bir kitleye hitap edecek şekilde)
+
+### İçerik Kategorileri:
+- Kötü veya yanlış beslenme alışkanlıklarının yol açtığı sağlık sorunları hakkında bilgiler
+- Sağlıklı yiyecekler ve bunların sağlığa faydaları
+- Çeşitli tatlı tarifleri
+- İlham verici rastgele yemek tarifleri bölümü
+- Abur cubur (junk food) ve sağlık üzerindeki etkileri
+- Malzemeler ve adım adım talimatlar içeren detaylı yemek tarifleri
+- Eğitici içerikler: yemek yapımına dair öğretici kitaplar, belirli yemek tekniklerini öğreten videolar ve yemek yapmanın temel mantığını açıklayan videolar
+
+### Teknik Gereksinimler:
+- Website, hem ön yüz (frontend) hem de arka yüz (backend) için Next.js kullanılarak geliştirilecek.
+- SQL veritabanı şeması, tüm özellikleri ve içerik türlerini verimli bir şekilde destekleyecek şekilde tasarlanmalı.
+- Next.js en iyi uygulamalarına uygun, düzenli ve açık bir dosya/klasör yapısı sağlayın.
+
+### Ek Talimatlar:
+- Website’nin işlevselliğini, kullanıcı deneyimini veya bakım kolaylığını artırabilecek ek özellikler, içerikler veya teknik detaylar önerin ve ekleyin.
+- Veritabanı şemasının normalize edilmiş ve performans için optimize edilmiş olduğundan emin olun.
+- Dosya yapısı, modüler ve gelecekteki genişlemelere uyum sağlayabilecek şekilde ölçeklenebilir olmalıdır.
+
+Lütfen SQL şemasını ve dosya yapısını, Next.js projesinde doğrudan uygulanabilir, iyi belgelenmiş ve anlaşılır bir formatta sunun.
